@@ -1,2 +1,1 @@
-# Banned from Discord.
-Discord: `.averagecryptonerd` > `averagecryptonerd`
+just a guy that does things
