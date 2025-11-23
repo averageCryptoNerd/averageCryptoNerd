@@ -14,7 +14,6 @@ I currently accept donations with the cryptocurrencies listed below. If your pre
 
 
 ```
-btc legacy: 17doaMc59kUHc9aGdP5bDxCXfq6xpJbLhb
-eth: 0x0cd955f6b2e0f54fca3e95ddb49cb92885927e8d
-doge: DT7HJRtU748BAWyAiu6heMcz1o5JZrb2BN
+ETH: 0x0cd955f6b2e0f54fca3e95ddb49cb92885927e8d
+SOL: GTptW2NRsKwBAGCFW1fD3bcWUv8BnCnRgseKvBUGLQao
 ```
