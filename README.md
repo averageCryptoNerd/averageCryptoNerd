@@ -9,7 +9,7 @@ I’m [**AVG**](https://basicallyavg.dev), a fullstack developer based in the US
 
 ---
 
-**Some stuff I built:**
+**📌 Some stuff I built:**
 - [YAGL](https://github.com/averagecryptonerd/YAGL) -  An open-source Android launcher designed as a flexible alternative to popular options like Nova and Niagra.
 - [basicallyavg.dev](https://basicallyavg.dev) -  My personal portfolio created in HTML! I really need to update it..
 ---
