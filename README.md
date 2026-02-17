@@ -1,10 +1,10 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Hey there!
 
-I’m [**AVG**](https://basicallyavg.dev), a fullstack developer based in the US! I like building clean, minimalistic apps, primarily with Kotlin or Typescript. I only have a few repositories open to the public at the moment.
+I’m [**AVG**](https://basicallyavg.dev), a fullstack developer based in the US! I like building clean, minimalistic apps, primarily with Kotlin or Javascript. I only have a few repositories open to the public at the moment.
 
 **These days I’m focused on:**
-- Javascript, Python, and Kotlin!
-- Small, minimalistic apps.
+- Javascript, Python, C, and Kotlin!
+- Small, minimalistic/utility apps.
 - Designing (commisioning) websites for other people! 
 
 ---
