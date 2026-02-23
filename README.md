@@ -1,6 +1,7 @@
 ### <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Hey there!
 
-I’m [**AVG**](https://basicallyavg.dev), a fullstack developer based in the US! I like building clean, minimalistic apps, primarily with Kotlin or Javascript. I only have a few repositories open to the public at the moment.
+I’m [**AVG**](https://basicallyavg.dev), a fullstack developer based in the US! There isn't much on here public, hopefully that'll change but most of my  repositories contain exploits and other stuff I would get banned for if I revealed.
+
 
 **These days I’m focused on:**
 - Javascript, Python, C, and Kotlin!
