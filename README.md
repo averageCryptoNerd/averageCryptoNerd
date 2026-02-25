@@ -2,5 +2,5 @@
 I’m [**AVG**](https://basicallyavg.dev), a 16 year old fullstack developer, professional(ish) pentester, and TypeScript nerd. Most of my work here is exploit related and private, but feel free to check out the projects I’ve shared.
 
 ---
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=averagecryptonerd&theme=tokyonight-duo" alt="averagecryptonerd" /></p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=averagecryptonerd&theme=vue-dark" alt="averagecryptonerd" /></p>
 
