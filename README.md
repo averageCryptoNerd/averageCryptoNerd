@@ -3,7 +3,6 @@ I’m [**AVG**](https://basicallyavg.dev), a fullstack developer, professional(i
 
 ### Projects: 
 * [**EmailThing**](https://github.com/averageCryptoNerd/EmailThing/): A fork of AverageCryptoNerd/emailthing with a ton of added features! [<img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14">](https://github.com/AverageCryptoNerd/EmailThing "GitHub Repo")
-* [**Pingu**](https://github.com/averageCryptoNerd/pingu): An open-source and highly-customizable alternative to UptimeRobot/Better Stack! [<img src="https://github.githubassets.com/favicons/favicon-dark.svg" height="14" width="14">](https://github.com/AverageCryptoNerd/pingu "GitHub Repo")
 * [*See more...*](https://github.com/averageCryptoNerd?tab=repositories "See more of my projects!")
 
 ---
