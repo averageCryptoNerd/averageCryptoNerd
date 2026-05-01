@@ -1,10 +1,8 @@
-### <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> Hi!
-I’m [**AVG**](https://basicallyavg.dev), a fullstack developer, professional(ish) pentester, and TypeScript nerd.
+## 👋 Hiya!
+I'm AverageCryptoNerd, or Basi (/ˈbeɪ.si/), a 16-year-old fullstack developer & OSS nerd! Feel free to check out some of my repos below, and if you find anything useful, I would greatly appreciate if you would check out my [sponsors](https://github.com/sponsors/averageCryptoNerd) page! 
 
-### Projects: 
-* [<img src="https://camo.githubusercontent.com/bbe9452041e53fd89a96646ef4e05cfa3ac4a2c05937908565eb8075fb70727b/68747470733a2f2f656d61696c7468696e672e6170702f6c6f676f2e706e67" height="20" width="20">](https://github.com/AverageCryptoNerd/EmailThing "GitHub Repo") [**EmailThing**](https://github.com/averageCryptoNerd/EmailThing/): A fork of RiskyMH/emailThing with added customizability & privacy!
-* [*See more...*](https://github.com/averageCryptoNerd?tab=repositories "See more of my projects!")
+### Projects:
+* [**EmailThing**](https://github.com/averagecryptonerd/emailthing): A fork of RiskyMH/emailthing with custom themes and added features!
+* [**Dice**](https://github.com/averageCryptoNerd/dice): A random number gen app I made for the Flipper Zero in like 5 minutes.
 
----
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=averagecryptonerd&theme=vue-dark" alt="averagecryptonerd" /></p>
-
+I don't generally open-source my projects, but I will for anything that I think would be useful for others! Thanks for taking some time reading this!
